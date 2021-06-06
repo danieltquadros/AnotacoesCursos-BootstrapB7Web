@@ -44,10 +44,10 @@ _________________________________________________________________
 SUMÁRIO - Exercícios e Projetos
 _________________________________________________________________
 
-- Aula 26 - Projeto Formulário de Login (1/2)
+- Aula 26 - Projeto Formulário de Login (1/2) https://github.com/danieltquadros/uploadFormularioDeLogin
 - Aula 27 - Projeto Formulário de Login (2/2)
-- Aula 28 - Exercício One-page Layout
+- Aula 28 - Exercício One-page Layout https://github.com/danieltquadros/OPL09-05-2021
 - Aula 29 - Projeto Filmes em Cartaz (1/2)
 - Aula 30 - Projeto Filmes em Cartaz (2/2)
-- Aula 31 - Exercício Quiz
+- Aula 31 - Exercício Quiz https://github.com/danieltquadros/Quiz10-05-2010
 - Aula 32 - Exercício Buscador de GIF
